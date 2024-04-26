@@ -1,0 +1,23 @@
+# WORKSHOPS {.unnumbered}
+
+## Ongoing Workshops
+
+As of Academic Year 2023-2024, we are providing 7 _standard_ workshops/e-learnings. 
+
+### Research Data
+
+1. Quickstart to Research Data Management
+
+2. Getting Started With Yoda
+
+3. Getting Started With Virtual Research Environments
+
+### Research Software
+
+1. Introduction to R & Data: [course website](https://utrechtuniversity.github.io/workshop-introduction-to-R-and-data/) / [GitHub repository](https://github.com/UtrechtUniversity/workshop-introduction-to-r-and-data)
+
+2. Introduction to Python:
+
+3. Writing Reproducible Manuscripts in R & Python: [course website](https://nehamoopen.github.io/worcshop-book/) / [GitHub repository](https://github.com/nehamoopen/worcshop-book)
+
+4. Best Practices in Writing Reproducible Code: [course website](https://utrechtuniversity.github.io/workshop-computational-reproducibility/docs/index.html) / [GitHub repository](https://github.com/UtrechtUniversity/workshop-computational-reproducibility)

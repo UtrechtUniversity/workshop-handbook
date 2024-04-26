@@ -1,0 +1,3 @@
+# Welcome {.unnumbered}
+
+The UB & ITS collaborate on workshops aimed at working with data and software in line with Open Science and FAIR Principles. As our collaboration grows closer within and between workshops, this Handbook is being developed as a common reference that consolidates information on how we develop and organize these workshops. 

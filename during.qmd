@@ -1,0 +1,63 @@
+# During {.unnumbered}
+
+This section provides an overview of what needs to occur during the academic year as we go through the planned workshops.
+
+## Communication
+
+### Q&A
+
+Any Q&A or communication about the workshops should go through TopDesk. The workshop leads are responsible for picking up calls related to their respective workshops. Any other calls can be picked by the workshop coordinator or the team member monitoring TopDesk that day, depending on what is required.
+
+### Waitlists
+
+Currently, requests to be waitlisted for workshops are directed to TopDesk. The workshop lead should: 
+
+- place the call under their name
+- set the due date to one week before the workshop 
+- send a response acknowledging the waitlist request (TODO: make a template)
+
+## Pre-Workshop
+
+### Pre-Workshop Email
+
+The pre-workshop email should be sent out _one week_ before the workshop is to take place. The email should be placed within an Outlook appointment. The workshop lead has primary responsibility for this.
+
+The following folder contains (per workshop) all the texts for pre- and post-workshop emails: [RDM Support -> General -> Training & Workshops -> Workshop Communication Materials](https://solisservices.sharepoint.com/:f:/r/sites/RDMSpeeltuin/Shared%20Documents/General/Trainings%20and%20Workshops/Workshop%20Communication%20Materials?csf=1&web=1&e=dab1La)
+
+TODO: review pre-workshop email in general, but also include deregistration reminder and no-show/dropout policy.
+
+### Catering
+
+We are currently arranging tea and coffee ourselves. If a budget for catering is arranged, the workshop lead will need to book the catering at least >=3 days before the workshop is to take place.
+
+## Workshop
+
+During the workshop, we distinguish between _Instructors_ and _Helpers_ in terms of our role for that day. The _Instructor_ is responsible for teaching: they are at the front of the room and go through the slides and demos. The _Helper_ is responsible for walking around the room and supporting participants during the workshop, especially during the exercises. These are not fixed roles, we expect colleagues will take turns with a different role every time a workshop takes place. For those who are new to the workshop, it may be helpful to be a _Helper_ for a couple of rounds before picking up the _Instructor_ role.
+
+It's helpful if at least 2 colleagues arrive earlier to open the room and help set up the space.
+
+We also want to take attendance during the workshop to keep our numbers up to date: _registrants_, _deregistrants_, _attendees_, _no-shows_. 
+
+Start the workshop with a round of introductions. End the workshop with necessary closing information.
+
+After the workshop, it may be helpful to have an informal discussion on how the workshop went. Feedback can be exchanged and questions can be answered. If there are action points, the workshop lead can pick them up or make GitHub Issues if needed.
+
+## Post-Workshop
+
+### Post-Workshop Email
+
+The post-workshop email should be sent out as soon as possible after the workshop, ideally the very next day but not later than 1 week after the workshop. The workshop lead has primary responsibility for this.
+
+The following folder contains (per workshop) all the texts for pre- and post-workshop emails: [RDM Support -> General -> Training & Workshops -> Workshop Communication Materials](https://solisservices.sharepoint.com/:f:/r/sites/RDMSpeeltuin/Shared%20Documents/General/Trainings%20and%20Workshops/Workshop%20Communication%20Materials?csf=1&web=1&e=dab1La)
+
+TODO: The workshop lead should update the Excel sheet tracking workshop-related numbers, i.e. _registrants_, _deregistrants_, _attendees_, _no-shows_. 
+
+## Quarterly Review
+
+### Pizza Party
+
+The workshop coordinator will organize a Quarterly Review, hopefully with pizza to discuss how things are going.
+
+### Post-Workshop Survey
+
+The post-workshop email contains a link to the post-workshop survey. The survey is hosted on Qualtrics and a report can be derived on a quarterly and annual basis to evaluate workshop-related feedback from participants.

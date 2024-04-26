@@ -1,0 +1,133 @@
+# Before {.unnumbered}
+
+This section provides an overview of what needs to occur while planning workshops for the upcoming academic year.
+
+## Jaarplanning
+
+Before commencing the with the jaarplanning, the department should decide on which workshops will be offered (or not) and who will be involved in the workshop as leads and instructors/helpers.
+
+### Workshop Agenda
+
+By the end of May, we should have the jaarplanning for the next academic year ready. 
+
+When doing this jaarplanning, we should take the following into account:
+
+- the _frequency_ of the workshop,
+- the _preferred days_ for the workshop,
+- the _number of participants_ for the workshop,
+
+Moreover, the workshops should be _spaced out_ well, so we don't have weeks that are too busy or vice versa.
+
+Here is an example of the workshop agenda for 2023-2024: [RDM Support -> General -> Training & Workshops -> Workshop Communication Materials -> workshops-planning-2023-2024.xlsx](https://solisservices.sharepoint.com/:x:/r/sites/RDMSpeeltuin/Shared%20Documents/General/Trainings%20and%20Workshops/Workshop%20Communication%20Materials/workshops-planning-2023-2024.xlsx?d=w0037faec227d49c09d11be856d3c3cbb&csf=1&web=1&e=06E4BJ&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)
+
+![](images/workshop-agenda.PNG)
+
+### Room Booking
+
+We need to book locations for all the workshops in advance. This can be done via the the booking system or by contacting colleagues in _Publieksdiensten_ (probably not called the same now after the reorganization).
+
+![](images/workshop-agenda.PNG)
+
+### Outlook Calendar
+
+When the jaarplanning is done, put it in an Outlook calendar that can be shared with everyone.
+
+![](images/outlook-calendar.PNG)
+
+You can use the Excel sheet from the jaarplanning to create calendar items in bulk. Here are two links for reference:
+
+1. https://www.techrepublic.com/article/how-to-import-excel-records-into-an-outlook-calendar/ 
+
+2. https://www.auditexcel.co.za/blog/import-excel-appointments-into-outlook-calendar/
+
+After that, you can choose to either share or publish your Outlook calendar:
+
+- https://support.microsoft.com/en-us/office/share-your-calendar-in-outlook-com-0fc1cb48-569d-4d1e-ac20-5a9b3f5e6ff2
+
+### Sign Up Sheet
+
+Also make a page where people can sign up or simply report who will be going.
+
+May be redundant with the pool of instructors and helpers but might still help maintain overview. Maybe sign up for the whole academic year / commit to one workshop and then figure it out within your team. To be discussed.
+
+Here is a link to the sign-up sheet for 2023-2024: [RDM Support -> Team Code and Software -> Workshops & Cafes (tab)](https://teams.microsoft.com/l/entity/26bc2873-6023-480c-a11b-76b66605ce8c/_djb2_msteams_prefix_1765026388?context=%7B%22channelId%22%3A%2219%3Aa5f3eb9fa731402c91171d0ef1eed535%40thread.skype%22%7D&tenantId=d72758a0-a446-4e0f-a0aa-4bf95a4a10e7)
+
+The Excel sheet can also be used as a basis for creating this sign-up sheet tab, you don't have to create entries separately.
+
+![](images/sign-up-sheet.PNG)
+
+## Website
+
+The following folder contains (per workshop) all the texts for landing pages, agenda items, Formdesk forms and confirmations, pre- and post-workshop emails: [RDM Support -> General -> Training & Workshops -> Workshop Communication Materials](https://solisservices.sharepoint.com/:f:/r/sites/RDMSpeeltuin/Shared%20Documents/General/Trainings%20and%20Workshops/Workshop%20Communication%20Materials?csf=1&web=1&e=dab1La)
+
+There is also an Excel sheet to track the review and update of materials: [](https://solisservices.sharepoint.com/:x:/r/sites/RDMSpeeltuin/Shared%20Documents/General/Trainings%20and%20Workshops/Workshop%20Communication%20Materials/workshops-planning-2023-2024.xlsx?d=w0037faec227d49c09d11be856d3c3cbb&csf=1&web=1&e=ggINu4&nav=MTVfezYzREREOTdELTNBNkMtNDJDOS1BRTQ2LTFDNzQ2MzBFMzZBRX0)
+
+![RDM Support -> General -> Training & Workshops -> Workshop Communication Materials -> workshops-planning-2023-2024.xlsx](images/workshop-materials-checklist.PNG)
+
+### Landing Page
+
+Review the landing page text for all workshops. Lilli makes template and the workshop leads do the reviewing (primarily of workshop description/content, the more admin stuff will be generic).
+
+Example of landing page for Introduction to R & Data: [https://www.uu.nl/en/research/research-data-management/training-workshops/introduction-to-r-data](https://www.uu.nl/en/research/research-data-management/training-workshops/introduction-to-r-data)
+
+The landing page is a generic description of the workshop and includes an overview of all workshop dates with link to the specific agenda item.
+
+- prerequisties
+- what you can expect (or not)
+- UU and UU-affiliated only
+- costs
+- deregistration and no-show/dropout policy
+
+Note that a Dutch translation will be needed as well.
+
+### Agenda Items
+
+The agenda item is specific to a workshop date/occurence and includes the link to the registration form.
+
+Example of agenda item for Introduction to R & Data: [https://www.uu.nl/en/events/introduction-to-r-data-may-2024](https://www.uu.nl/en/events/introduction-to-r-data-may-2024)
+
+Note that a Dutch translation will be needed as well.
+
+## Formdesk
+
+How to handle waitlists? 
+Maximum number of participants? Maximum number of waitlisted participants?
+
+### Formdesk Form
+
+The Formdesk registration form is largely the same for all workshops. There are generic questions related to registration, but a couple of specific questions per workshop.
+
+Make sure that the werkstudenten ensure only UU and UU-affiliated addresses are accepted for registration! Provide a list of these addresses (UMCU, PMC, etc.)
+
+Here is a link to the default questions for Formdesk at the moment: [RDM Support -> General -> Training & Workshops -> Workshop Communication Materials -> _formdesk -> default-questions-formdesk-registration.docx](https://solisservices.sharepoint.com/:w:/r/sites/RDMSpeeltuin/Shared%20Documents/General/Trainings%20and%20Workshops/Workshop%20Communication%20Materials/_formdesk/default-questions-formdesk-registration.docx?d=wdc1e2777ebe8453bb61f453f106e50fc&csf=1&web=1&e=Vxd94A)
+
+### Browser Confirmation
+
+This refers to the text that appears in your browser when the registration is confirmed. It points to [info.rdm@uu.nl](info.rdm@uu.nl) as contact point in case a confirmation email is not received.
+
+[RDM Support -> General -> Training & Workshops -> Workshop Communication Materials -> _formdesk -> default-questions-formdesk-confirmation.docx](https://solisservices.sharepoint.com/:w:/r/sites/RDMSpeeltuin/Shared%20Documents/General/Trainings%20and%20Workshops/Workshop%20Communication%20Materials/_formdesk/default-formdesk-confirmation.docx?d=wee2a03a810e74d40aeea4e8cb1e5be6b&csf=1&web=1&e=PBbgGp)
+
+### Confirmation Email
+
+This refers to the email that participants receive when their registration is confirmed. It points to [info.rdm@uu.nl](info.rdm@uu.nl) as contact point and includes a personalized link for deregistration.
+
+[RDM Support -> General -> Training & Workshops -> Workshop Communication Materials -> _formdesk -> default-questions-formdesk-confirmation.docx](https://solisservices.sharepoint.com/:w:/r/sites/RDMSpeeltuin/Shared%20Documents/General/Trainings%20and%20Workshops/Workshop%20Communication%20Materials/_formdesk/default-formdesk-confirmation.docx?d=wee2a03a810e74d40aeea4e8cb1e5be6b&csf=1&web=1&e=PBbgGp)
+
+We might want to consider putting the pre-workshop email in the Formdesk confirmation email already?
+
+## Werkstudenten
+
+Once all the documents have been reviewed and/or updated, have the Communicatie werkstudenten put everything online. They can be contacted at: werkstudentCC@uu.nl
+
+It can take them up to a month to process everything for a whole academic year. We naturally want to prioritize the workshops from September-December, so people can already start signing up for that.
+
+Some things they should do: number of participants, UU & UU-affiliated addresses, specify the owners and co-owners for the form, notification if it's registration less than 7 days.
+
+It would be helpful to give them a briefing of instructions like in this document: [RDM Support -> General -> Training & Workshops -> Workshop Communication Materials -> briefing-work-students.docx](https://solisservices.sharepoint.com/:w:/r/sites/RDMSpeeltuin/Shared%20Documents/General/Trainings%20and%20Workshops/Workshop%20Communication%20Materials/briefing-work-students%20.docx?d=wd1d0b1b5d61e432699f668dfe89ae60f&csf=1&web=1&e=iVl4Iz)
+
+### New
+
+-	We need a TIMELINE for the jaarplanning and coordination – when do we wanna schedule big group meetings, review moments, determine leads 🎉
+-	Create a TASK BOARD for workshops if we think it’s useful.
+-	List the workshops + e-learnings we want do/maintain next academic year. Determine what to do with stuff that might be phased out (if at all). You might archive it for example.
+-	Determine the leads of these workshops, as well as a pool of instructors and helpers per workshop. Clarify and agree on what these roles mean and involve (and not).

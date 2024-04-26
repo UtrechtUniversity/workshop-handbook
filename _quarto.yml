@@ -1,0 +1,30 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Workshop Handbook"
+  author: Neha Moopen & Lilli van Wielink
+  date: last-modified
+  search: true
+  chapters:
+    - index.qmd
+    - part: standard-workshops.qmd
+      chapters: 
+        - before.qmd
+        - during.qmd
+        - after.qmd
+    - part: e-learnings.qmd
+    - part: custom-workshops.qmd
+    - new.qmd
+  downloads: [pdf, docx]
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  docx: default
+
+
+

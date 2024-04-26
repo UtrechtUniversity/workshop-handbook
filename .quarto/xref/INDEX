@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "22adb083"
+  },
+  "standard-workshops.qmd": {
+    "standard-workshops.html": "d6d73391"
+  },
+  "before.qmd": {
+    "before.html": "39012b40"
+  },
+  "during.qmd": {
+    "during.html": "c2dc9726"
+  },
+  "after.qmd": {
+    "after.html": "71e03fcf"
+  },
+  "e-learnings.qmd": {
+    "e-learnings.html": "4f958c7d"
+  },
+  "custom-workshops.qmd": {
+    "custom-workshops.html": "9ab4f795"
+  },
+  "new.qmd": {
+    "new.html": "d6351596"
+  }
+}

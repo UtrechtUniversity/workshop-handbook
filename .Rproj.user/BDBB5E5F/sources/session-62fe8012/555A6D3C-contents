@@ -1,0 +1,17 @@
+# After {.unnumbered}
+
+This section provides an overview of what needs to occur towards the end of the academic year, as we get closer to wrapping up all the workshops. This 'timing' of activities in this section will overlap with those associated with planning for the upcoming academic year, but they serve different purposes.
+
+-	All (C&S) workshop materials are built with Quarto and hosted on GitHub.
+-	The repos are integrated with Zenodo for a DOI / uploaded to Zenodo
+-	We don’t have a pool of instructors assigned to specific workshops, it’s just people who’ve been doing it for a while or those who are feeling proactive
+-	We don’t have evaluation moments for the post-workshop survey or content yet. Content is updated in ad-hoc ways. Sprints could be fun but not doable in practice most likely.
+
+## New
+
+-	NEW: finish automating survey report (Formdesk + Qualtrics combi)
+-	NEW: plan quarterly/biannual evaluation moment
+-	NEW: update all workshop materials to Quarto website instead of book?
+-	NEW: provide template and instructions for Quarto website.
+-	NEW: how to align non C&S workshops for similar look and feel? I would say make single page website with the slides embedded..
+-	Dobule-check repos for integration with Zenodo for DOI
