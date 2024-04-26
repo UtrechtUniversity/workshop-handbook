@@ -17,11 +17,13 @@ book:
     - part: e-learnings.qmd
     - part: custom-workshops.qmd
     - new.qmd
-  downloads: [pdf, docx]
+  
 
   sidebar:
-    repo-url: https://github.com/UtrechtUniversity/workshop-handbook
+    logo: images/uu-logo.png
+  repo-url: https://github.com/UtrechtUniversity/workshop-handbook
   repo-actions: [edit]
+  downloads: [pdf, docx]
   comments: 
     hypothesis: true
     utterances:
