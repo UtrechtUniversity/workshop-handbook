@@ -91,18 +91,18 @@
     "text": "Workshop Materials\n\nMaintenance\nAfter the last workshop has taken place, all associated materials should be archived on Zenodo.\n\nWorkshops related to data are typically PowerPoint presentations. These should be uploaded to Zenodo, along with a pdf copy.\nWorkshops related to software have materials built with Quarto and hosted on the Utrecht University GitHub organization. The repositories on GitHub should be integrated with Zenodo first and a ‘release’ of the repository should be made on an annual basis. Zenodo will detect the release and automatically archive it.\n\n\n\nDevelopment\nTeams for each workshop are encouraged to get together and work on updating / developing the materials further. If colleagues switch between workshops to one that the are not familiar with or if we have new colleagues, this can be opportunity to get started with the workshop ‘onboarding’ process until the first workshop actually takes place."
   },
   {
-    "objectID": "e-learnings.html",
-    "href": "e-learnings.html",
-    "title": "E-Learnings",
-    "section": "",
-    "text": "Learn to Write Your DMP\nPrivacy Basics For Researchers"
-  },
-  {
     "objectID": "custom-workshops.html",
     "href": "custom-workshops.html",
     "title": "Custom Workshops",
     "section": "",
     "text": "We currently have a small paragraph for custom workshops at: https://www.uu.nl/en/research/research-data-management/workshops\nTODO: a separate landing page for the custom workshops with a gallery/portfolio (links to Zenodo or GitHub) showing examples of custom workshops we have done?\nRequests for custom workshops should be directed to the workshop coordinator via TopDesk.\nThe workshop coordinator will bring the request to the team and we will decide if we can do it and who will do it.\nIf the workshop can be carried out, the workshop coordinator will link the contactperson with the colleagues who are picking it up. They will also check with the contactperson about how they found out about us and our offering.\nIf possible, the post-workshop survey should be distributed to the attendees.\nAfter the workshop, the colleagues will report back to the workshop coordinator with the number of attendees.\nThe colleagues will FAIRify the workshop materials on Zenodo and provide the link to the workshop coordinator.\nThe workshop coordinator will update an Excel sheet with the following information:\n\nThe name of the workshop\nThe contactperson (name, email, faculty, position)\nHow the contactperson found out about us and our offering\nThe names of colleagues who gave the workshop\nThe number of attendees\nThe link to the FAIRified workshop materials"
+  },
+  {
+    "objectID": "e-learnings.html",
+    "href": "e-learnings.html",
+    "title": "E-Learnings",
+    "section": "",
+    "text": "Learn to Write Your DMP\nPrivacy Basics For Researchers"
   },
   {
     "objectID": "new.html",

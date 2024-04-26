@@ -14,11 +14,10 @@ book:
         - before.qmd
         - during.qmd
         - after.qmd
-    - part: e-learnings.qmd
-    - part: custom-workshops.qmd
+    - custom-workshops.qmd
+    - e-learnings.qmd
     - new.qmd
   
-
   sidebar:
     logo: images/uu-logo.png
   repo-url: https://github.com/UtrechtUniversity/workshop-handbook

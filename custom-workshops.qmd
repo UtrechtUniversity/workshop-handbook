@@ -1,6 +1,6 @@
 # Custom Workshops {.unnumbered}
 
-- We currently have a small paragraph for custom workshops at: https://www.uu.nl/en/research/research-data-management/workshops
+- We currently have a small paragraph for custom workshops at: [https://www.uu.nl/en/research/research-data-management/workshops](https://www.uu.nl/en/research/research-data-management/workshops)
 
 - TODO: a separate landing page for the custom workshops with a gallery/portfolio (links to Zenodo or GitHub) showing examples of custom workshops we have done? 
 
