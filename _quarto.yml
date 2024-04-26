@@ -23,9 +23,7 @@ book:
     repo-url: https://github.com/UtrechtUniversity/workshop-handbook
   repo-actions: [edit]
   comments: 
-    hypothesis:
-      theme: clean
-      openSidebar: false
+    hypothesis: true
     utterances:
       repo: UtrechtUniversity/workshop-handbook
 
