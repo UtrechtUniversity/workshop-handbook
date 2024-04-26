@@ -1,17 +1,31 @@
 # After {.unnumbered}
 
-This section provides an overview of what needs to occur towards the end of the academic year, as we get closer to wrapping up all the workshops. This 'timing' of activities in this section will overlap with those associated with planning for the upcoming academic year, but they serve different purposes.
+This section provides an overview of what needs to occur towards the end of the academic year, as we get closer to wrapping up all the workshops. 
 
--	All (C&S) workshop materials are built with Quarto and hosted on GitHub.
--	The repos are integrated with Zenodo for a DOI / uploaded to Zenodo
--	We don’t have a pool of instructors assigned to specific workshops, it’s just people who’ve been doing it for a while or those who are feeling proactive
--	We don’t have evaluation moments for the post-workshop survey or content yet. Content is updated in ad-hoc ways. Sprints could be fun but not doable in practice most likely.
+The 'timing' of activities in this section will overlap with those associated with planning for the upcoming academic year, but they serve different purposes.
 
-## New
+## Annual Review
 
--	NEW: finish automating survey report (Formdesk + Qualtrics combi)
--	NEW: plan quarterly/biannual evaluation moment
--	NEW: update all workshop materials to Quarto website instead of book?
--	NEW: provide template and instructions for Quarto website.
--	NEW: how to align non C&S workshops for similar look and feel? I would say make single page website with the slides embedded..
--	Dobule-check repos for integration with Zenodo for DOI
+During the Annual Review, we reflect on the year as a whole and what we might want to do differently in the upcoming year. In addition to evaluating the pre- and post-workshop surveys and our experiences in general. The following decisions can be made:
+
+- which workshops will be provided the next year
+- who will comprise the sub-team for each workshop
+- who will be the workshop lead
+- what are the action points and to-dos that need to be carried our as part of the jaarplanning 
+- what is the planning/timeline towards implementing the action points
+- what is needed from everyone to develop themselves and have a good time teaching the workshops
+
+## Workshop Materials
+
+### Maintenance
+
+After the last workshop has taken place, all associated materials should be archived on Zenodo.
+
+- Workshops related to _data_ are typically PowerPoint presentations. These should be uploaded to Zenodo, along with a pdf copy.
+
+- Workshops related to _software_ have materials built with Quarto and hosted on the Utrecht University GitHub organization. The repositories on GitHub should be integrated with Zenodo first and a 'release' of the repository should be made on an annual basis. Zenodo will detect the release and automatically archive it. 
+
+### Development
+
+Teams for each workshop are encouraged to get together and work on updating / developing the materials further. If colleagues switch between workshops to one that the are not familiar with or if we have new colleagues, this can be opportunity to get started with the workshop 'onboarding' process until the first workshop actually takes place.
+

@@ -177,7 +177,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#new" id="toc-new" class="nav-link active" data-scroll-target="#new">New</a></li>
+  <li><a href="#annual-review" id="toc-annual-review" class="nav-link active" data-scroll-target="#annual-review">Annual Review</a></li>
+  <li><a href="#workshop-materials" id="toc-workshop-materials" class="nav-link" data-scroll-target="#workshop-materials">Workshop Materials</a>
+  <ul class="collapse">
+  <li><a href="#maintenance" id="toc-maintenance" class="nav-link" data-scroll-target="#maintenance">Maintenance</a></li>
+  <li><a href="#development" id="toc-development" class="nav-link" data-scroll-target="#development">Development</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -201,25 +206,36 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>This section provides an overview of what needs to occur towards the end of the academic year, as we get closer to wrapping up all the workshops. This ‘timing’ of activities in this section will overlap with those associated with planning for the upcoming academic year, but they serve different purposes.</p>
+<p>This section provides an overview of what needs to occur towards the end of the academic year, as we get closer to wrapping up all the workshops.</p>
+<p>The ‘timing’ of activities in this section will overlap with those associated with planning for the upcoming academic year, but they serve different purposes.</p>
+<section id="annual-review" class="level2">
+<h2 class="anchored" data-anchor-id="annual-review">Annual Review</h2>
+<p>During the Annual Review, we reflect on the year as a whole and what we might want to do differently in the upcoming year. In addition to evaluating the pre- and post-workshop surveys and our experiences in general. The following decisions can be made:</p>
 <ul>
-<li>All (C&amp;S) workshop materials are built with Quarto and hosted on GitHub.</li>
-<li>The repos are integrated with Zenodo for a DOI / uploaded to Zenodo</li>
-<li>We don’t have a pool of instructors assigned to specific workshops, it’s just people who’ve been doing it for a while or those who are feeling proactive</li>
-<li>We don’t have evaluation moments for the post-workshop survey or content yet. Content is updated in ad-hoc ways. Sprints could be fun but not doable in practice most likely.</li>
+<li>which workshops will be provided the next year</li>
+<li>who will comprise the sub-team for each workshop</li>
+<li>who will be the workshop lead</li>
+<li>what are the action points and to-dos that need to be carried our as part of the jaarplanning</li>
+<li>what is the planning/timeline towards implementing the action points</li>
+<li>what is needed from everyone to develop themselves and have a good time teaching the workshops</li>
 </ul>
-<section id="new" class="level2">
-<h2 class="anchored" data-anchor-id="new">New</h2>
+</section>
+<section id="workshop-materials" class="level2">
+<h2 class="anchored" data-anchor-id="workshop-materials">Workshop Materials</h2>
+<section id="maintenance" class="level3">
+<h3 class="anchored" data-anchor-id="maintenance">Maintenance</h3>
+<p>After the last workshop has taken place, all associated materials should be archived on Zenodo.</p>
 <ul>
-<li>NEW: finish automating survey report (Formdesk + Qualtrics combi)</li>
-<li>NEW: plan quarterly/biannual evaluation moment</li>
-<li>NEW: update all workshop materials to Quarto website instead of book?</li>
-<li>NEW: provide template and instructions for Quarto website.</li>
-<li>NEW: how to align non C&amp;S workshops for similar look and feel? I would say make single page website with the slides embedded..</li>
-<li>Dobule-check repos for integration with Zenodo for DOI</li>
+<li><p>Workshops related to <em>data</em> are typically PowerPoint presentations. These should be uploaded to Zenodo, along with a pdf copy.</p></li>
+<li><p>Workshops related to <em>software</em> have materials built with Quarto and hosted on the Utrecht University GitHub organization. The repositories on GitHub should be integrated with Zenodo first and a ‘release’ of the repository should be made on an annual basis. Zenodo will detect the release and automatically archive it.</p></li>
 </ul>
+</section>
+<section id="development" class="level3">
+<h3 class="anchored" data-anchor-id="development">Development</h3>
+<p>Teams for each workshop are encouraged to get together and work on updating / developing the materials further. If colleagues switch between workshops to one that the are not familiar with or if we have new colleagues, this can be opportunity to get started with the workshop ‘onboarding’ process until the first workshop actually takes place.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -455,6 +471,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
 });
+</script>
+<script src="https://utteranc.es/client.js" repo="UtrechtUniversity/workshop-handbook" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">

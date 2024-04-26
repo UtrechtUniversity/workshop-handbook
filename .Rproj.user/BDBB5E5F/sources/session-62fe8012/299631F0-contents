@@ -19,6 +19,13 @@ book:
     - new.qmd
   downloads: [pdf, docx]
 
+  sidebar:
+    repo-url: https://github.com/UtrechtUniversity/workshop-handbook
+  repo-actions: [edit]
+  comments: 
+    utterances:
+      repo: UtrechtUniversity/workshop-handbook
+
 format:
   html:
     theme: cosmo
