@@ -4,7 +4,7 @@ This section provides an overview of what needs to occur while planning workshop
 
 ## Jaarplanning
 
-Before commencing the with the jaarplanning, the department should decide on which workshops will be offered (or not) and who will be involved in the workshop as leads and instructors/helpers. This would likely be decided during the Annual Review.
+Before commencing with the jaarplanning, the department should decide on which workshops will be offered (or not) and who will be involved in the workshop as leads and instructors/helpers. This would likely be decided during the Annual Review.
 
 ### Workshop Agenda
 
@@ -36,9 +36,9 @@ When the jaarplanning is done, put it in an Outlook calendar that can be shared 
 
 You can use the Excel sheet from the jaarplanning to create calendar items in bulk. Here are two links for reference:
 
-1. https://www.techrepublic.com/article/how-to-import-excel-records-into-an-outlook-calendar/ 
+1. [example 1](https://www.techrepublic.com/article/how-to-import-excel-records-into-an-outlook-calendar/) 
 
-2. https://www.auditexcel.co.za/blog/import-excel-appointments-into-outlook-calendar/
+2. [example 2](https://www.auditexcel.co.za/blog/import-excel-appointments-into-outlook-calendar/)
 
 After that, you can choose to either share or publish your Outlook calendar:
 
